@@ -1,7 +1,22 @@
 # itransition-task-2
 Print SHA-3-256 for files in current directory
 
-Действия 
+![project structure](https://user-images.githubusercontent.com/82511519/125039702-73abe880-e09f-11eb-8bcf-94cfc488fde6.PNG)
+
+![app_code](https://user-images.githubusercontent.com/82511519/125039742-7eff1400-e09f-11eb-9a97-3287e18b4e7d.PNG)
+
+
+![printSHA3_code](https://user-images.githubusercontent.com/82511519/125039758-832b3180-e09f-11eb-86b4-6d9c5cc65d58.PNG)
+
+![output](https://user-images.githubusercontent.com/82511519/125039906-b241a300-e09f-11eb-8206-7a0e36c0e529.PNG)
+
+
+
+
+
+
+Task Description
+
 Задание №2. Для тех, кто уже прислал №1. Для всех направлений..
 
 На языке с динамической типизацией (можно выбрать Python 3 или Ruby или JavaScript; +50% за два языка, +100% за три) реализовать скрипт, который выводит по одной строке для каждого файла в текущей папке: имя файла, пробел, содержащей значение SHA3-256 от содержимого файла (в хексе). Больше ничего не выводится. Если папка пустая, то не выводится ничего. Если папка содержит 10 файлов — выводятся 10 строк и т.д.
